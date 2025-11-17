@@ -1,0 +1,11 @@
+{
+  "name": "Финансовый трекер",
+  "short_name": "Финансы",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
